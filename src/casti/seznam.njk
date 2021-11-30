@@ -1,7 +1,5 @@
 <ul class="seznam">
  {% for film in filmy %}
-  <li class="seznam__polozka"> {{ film.nazev  }} </li>
+  <li class="seznam__polozka"> <a href="/film/{{ film.nazev | slug }}">{{ film.nazev }}</a> </li>
 {% endfor %}
 </ul>
-
-{# <a href="/film/{{ film.nazev | slug }}">{{ film.nazev }}</a> #}
