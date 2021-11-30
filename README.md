@@ -305,3 +305,5 @@ Tímto bys měla mít nachystanou základní strukturu postavenou na Eleventy. P
 - Vyber si na [ČSFD.cz](https://www.csfd.cz/) libovolný film a přidej informace o něm do `filmy.json`.
 
 - Zařiď, aby na větších obrazovkách byla patička u spodní hrany okna, pokud se tam vejde, ale nikdy nepřekrývala ostatní obsah.
+#   e l e v e n t y - f i l m y - c z e c h i t a s  
+ 
